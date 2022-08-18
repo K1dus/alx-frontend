@@ -1,4 +1,4 @@
-# 0x03. Responsive design
+# 0x03. Responsive design 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
